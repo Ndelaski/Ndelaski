@@ -53,7 +53,7 @@ I'm a data scientist and business analyst with a postgraduate background in data
 |---|---------|-------------|-------|--------|
 | 1 | [covid-bayesian-prediction](https://github.com/Ndelaski/Advanced-projects) | Predicting COVID-19 and Long COVID risk using Bayesian networks, SVM, neural networks, and decision trees on clinical symptom data. Postgraduate capstone. | pgmpy · sklearn · pandas | ✅ Complete |
 | 2 | [sensor-drift-ml](https://github.com/Ndelaski/sensor-drift-ml) | VOC gas classification from a 128-feature sensor array — key finding: all models drop from 98% CV accuracy to 35–50% on test due to sensor drift, not overfitting | sklearn · XGBoost · MLP · LassoCV | ✅ Complete |
-| 3 | [llm-rag-chatbot](https://github.com/Ndelaski/llm-rag-chatbot) | Retrieval-augmented generation chatbot over document corpora — semantic search with FAISS and a Streamlit chat interface | LangChain · OpenAI · FAISS · Streamlit | 🔨 Building |
+| 3 | [robot-navigation-rl](https://github.com/Ndelaski/robot-navigation-rl) | 2D robot navigation simulation with reward-based control — architecturally structured for Q-learning and DQN extension | Pygame · Python · Kinematics | ✅ Complete |
 | 4 | [sales-forecasting](https://github.com/Ndelaski/sales-forecasting) | Time series forecasting comparing ARIMA, Prophet, and LSTM on retail sales data with seasonality decomposition | Prophet · statsmodels · PyTorch | 📋 Planned |
 | 5 | [cv-image-classifier](https://github.com/Ndelaski/cv-image-classifier) | Transfer learning image classification with EfficientNet, data augmentation, GradCAM visualisation, and ONNX export | PyTorch · torchvision · Albumentations | 📋 Planned |
 
