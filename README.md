@@ -137,7 +137,7 @@ Developed a probabilistic graphical model to predict COVID-19 infection and long
   </a>
   &nbsp;
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-your.email%40gmail.com-D14836?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-andrewopata2@gmail.com-D14836?style=flat-square&logo=gmail" />
   </a>
 </p>
 
