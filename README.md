@@ -3,7 +3,7 @@
 <h3 align="center">Data Scientist · Business Analyst · ML Engineer</h3>
 
 <p align="center">
-  <em>Turning data into decisions — from exploratory analysis to deployed ML systems</em>
+  <em>Turning data into decisions  from exploratory analysis to deployed ML systems</em>
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ I'm a data scientist and business analyst with a postgraduate background in data
 
 ## Project index
 
-### 🧠 Machine learning & data science
+###  Machine learning & data science
 
 | # | Project | Description | Stack | Status |
 |---|---------|-------------|-------|--------|
@@ -57,7 +57,7 @@ I'm a data scientist and business analyst with a postgraduate background in data
 | 4 | [sales-forecasting](https://github.com/Ndelaski/sales-forecasting) | Time series forecasting comparing ARIMA, Prophet, and LSTM on retail sales data with seasonality decomposition | Prophet · statsmodels · PyTorch | 📋 Planned |
 | 5 | [cv-image-classifier](https://github.com/Ndelaski/cv-image-classifier) | Transfer learning image classification with EfficientNet, data augmentation, GradCAM visualisation, and ONNX export | PyTorch · torchvision · Albumentations | 📋 Planned |
 
-### ⚙️ ML engineering & deployment
+###  ML engineering & deployment
 
 | # | Project | Description | Stack | Status |
 |---|---------|-------------|-------|--------|
@@ -65,7 +65,7 @@ I'm a data scientist and business analyst with a postgraduate background in data
 | 7 | [ml-cicd-pipeline](https://github.com/Ndelaski/ml-cicd-pipeline) | Full CI/CD pipeline: lint → test → train → evaluate → deploy gate. Automated on every push via GitHub Actions | GitHub Actions · pytest · DVC · pre-commit | 📋 Planned |
 | 8 | [cloud-ml-deploy](https://github.com/Ndelaski/cloud-ml-deploy) | Infrastructure-as-code deployment of ML API to AWS ECS Fargate with auto-scaling and HTTPS | Terraform · AWS ECS · Docker | 📋 Planned |
 
-### 📊 Power BI & business analysis
+###  Power BI & business analysis
 
 | # | Project | Description | Tools | Status |
 |---|---------|-------------|-------|--------|
@@ -73,7 +73,7 @@ I'm a data scientist and business analyst with a postgraduate background in data
 | 10 | [powerbi-hr-analytics](https://github.com/Ndelaski/powerbi-hr-analytics) | HR attrition dashboard — same dataset as the ML churn project, showing the same problem from both a BI and predictive modelling angle | Power BI · DAX · IBM HR dataset | 🔨 Building |
 | 11 | [business-analysis-case-studies](https://github.com/Ndelaski/business-analysis-case-studies) | BA deliverables: business requirements documents, user stories, process maps, and stakeholder analyses | BPMN · Markdown · draw.io | 📋 Planned |
 
-### 🔬 Exploratory & learning
+###  Exploratory & learning
 
 | # | Project | Description | Stack |
 |---|---------|-------------|-------|
