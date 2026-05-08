@@ -1,0 +1,148 @@
+<h1 align="center">Andrew Khaleski Opata</h1>
+
+<h3 align="center">Data Scientist · Business Analyst · ML Engineer</h3>
+
+<p align="center">
+  <em>Turning data into decisions — from exploratory analysis to deployed ML systems</em>
+</p>
+
+<p align="center">
+  📍 Sydney, Australia &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/andrew-khaleski-opata-a932b2183/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="mailto:andrewopata2@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ndelaski&style=flat-square&color=blue" alt="profile views" />
+</p>
+
+---
+
+## About me
+
+I'm a data scientist and business analyst with a postgraduate background in data science from Western Sydney University. I work across the full data lifecycle — from stakeholder requirements and business analysis through to machine learning model development, API deployment, and CI/CD pipelines. I'm passionate about building interpretable, impactful ML systems in healthcare, business intelligence, and AI engineering.
+
+- 🔬 Currently building: end-to-end ML pipelines with MLflow + FastAPI deployment
+- 📊 Power BI dashboard portfolio covering sales, HR analytics, and KPI reporting
+- 🤖 Exploring: LLM applications and RAG systems with LangChain
+- 🎓 MSc Data Science — Western Sydney University
+
+---
+
+## Skills matrix
+
+| Area | Tools & Technologies |
+|------|----------------------|
+| **Languages** | Python · SQL · R · Bash |
+| **Machine learning** | scikit-learn · XGBoost · PyTorch · TensorFlow · pgmpy |
+| **NLP & LLMs** | HuggingFace Transformers · LangChain · FAISS · OpenAI API |
+| **MLOps** | MLflow · DVC · GitHub Actions · Docker · pre-commit |
+| **Data & BI** | pandas · NumPy · Power BI · DAX · Power Query · Excel |
+| **Visualisation** | matplotlib · seaborn · Plotly · Power BI |
+| **Cloud & deployment** | AWS (ECS, S3, ECR) · FastAPI · uvicorn · Terraform |
+| **Business analysis** | Requirements documentation · BPMN · User stories · Stakeholder mapping |
+| **Databases** | PostgreSQL · MySQL · SQLite |
+
+---
+
+## Project index
+
+### 🧠 Machine learning & data science
+
+| # | Project | Description | Stack | Status |
+|---|---------|-------------|-------|--------|
+| 1 | [covid-bayesian-prediction](https://github.com/Ndelaski/Advanced-projects) | Predicting COVID-19 and Long COVID risk using Bayesian networks, SVM, neural networks, and decision trees on clinical symptom data. Postgraduate capstone. | pgmpy · sklearn · pandas | ✅ Complete |
+| 2 | [customer-churn-mlflow](https://github.com/Ndelaski/customer-churn-mlflow) | End-to-end churn prediction pipeline with MLflow experiment tracking, SHAP explainability, and model registry | sklearn · MLflow · XGBoost · SHAP | 🔨 Building |
+| 3 | [llm-rag-chatbot](https://github.com/Ndelaski/llm-rag-chatbot) | Retrieval-augmented generation chatbot over document corpora — semantic search with FAISS and a Streamlit chat interface | LangChain · OpenAI · FAISS · Streamlit | 🔨 Building |
+| 4 | [sales-forecasting](https://github.com/Ndelaski/sales-forecasting) | Time series forecasting comparing ARIMA, Prophet, and LSTM on retail sales data with seasonality decomposition | Prophet · statsmodels · PyTorch | 📋 Planned |
+| 5 | [cv-image-classifier](https://github.com/Ndelaski/cv-image-classifier) | Transfer learning image classification with EfficientNet, data augmentation, GradCAM visualisation, and ONNX export | PyTorch · torchvision · Albumentations | 📋 Planned |
+
+### ⚙️ ML engineering & deployment
+
+| # | Project | Description | Stack | Status |
+|---|---------|-------------|-------|--------|
+| 6 | [ml-api-fastapi](https://github.com/Ndelaski/ml-api-fastapi) | Production REST API serving ML model predictions — Pydantic validation, Swagger docs, Dockerised deployment | FastAPI · Docker · Pydantic | 🔨 Building |
+| 7 | [ml-cicd-pipeline](https://github.com/Ndelaski/ml-cicd-pipeline) | Full CI/CD pipeline: lint → test → train → evaluate → deploy gate. Automated on every push via GitHub Actions | GitHub Actions · pytest · DVC · pre-commit | 📋 Planned |
+| 8 | [cloud-ml-deploy](https://github.com/Ndelaski/cloud-ml-deploy) | Infrastructure-as-code deployment of ML API to AWS ECS Fargate with auto-scaling and HTTPS | Terraform · AWS ECS · Docker | 📋 Planned |
+
+### 📊 Power BI & business analysis
+
+| # | Project | Description | Tools | Status |
+|---|---------|-------------|-------|--------|
+| 9 | [powerbi-sales-dashboard](https://github.com/Ndelaski/powerbi-sales-dashboard) | Executive sales dashboard with YTD/MoM KPIs, regional drill-through, and product performance pages | Power BI · DAX · Power Query | 🔨 Building |
+| 10 | [powerbi-hr-analytics](https://github.com/Ndelaski/powerbi-hr-analytics) | HR attrition dashboard — same dataset as the ML churn project, showing the same problem from both a BI and predictive modelling angle | Power BI · DAX · IBM HR dataset | 🔨 Building |
+| 11 | [business-analysis-case-studies](https://github.com/Ndelaski/business-analysis-case-studies) | BA deliverables: business requirements documents, user stories, process maps, and stakeholder analyses | BPMN · Markdown · draw.io | 📋 Planned |
+
+### 🔬 Exploratory & learning
+
+| # | Project | Description | Stack |
+|---|---------|-------------|-------|
+| 12 | [khal-playtime](https://github.com/Ndelaski/khal-playtime) | Sandbox for experiments, dataset explorations, and learning new techniques before they become full projects | Python · Jupyter |
+
+---
+
+## Power BI highlights
+
+> Dashboards are hosted as `.pbix` files with PDF exports and screenshots in each repo.
+
+**Sales performance dashboard** — `powerbi-sales-dashboard`
+- Revenue YTD, MoM growth, and variance to target KPI cards
+- Regional sales drill-through with territory breakdown
+- Top 10 products by margin and volume
+- Built on AdventureWorks / Contoso sample data with full star schema model
+
+**HR attrition dashboard** — `powerbi-hr-analytics`
+- Attrition rate by department, age band, tenure, and job role
+- Risk segmentation: high / medium / low attrition probability bands
+- Paired with the [customer-churn-mlflow](https://github.com/Ndelaski/customer-churn-mlflow) ML project — the same business problem tackled from both a BI and predictive modelling angle
+
+---
+
+## Featured work: COVID-19 Bayesian Network
+
+> Postgraduate capstone · Western Sydney University
+
+Developed a probabilistic graphical model to predict COVID-19 infection and long COVID risk from clinical symptom data and demographic features. Model comparison across two prediction horizons:
+
+| Model | Prediction horizon | Notes |
+|-------|--------------------|-------|
+| Bayesian Network (pgmpy) | 4 weeks · 6 months | Handles missing data natively |
+| Logistic Regression | 4 weeks · 6 months | Interpretable baseline |
+| Decision Trees | 4 weeks · 6 months | Clinically interpretable |
+| SVM | 4 weeks · 6 months | Non-linear boundary exploration |
+| Neural Network | 4 weeks · 6 months | Deep learning comparison |
+
+📁 [View the repository →](https://github.com/Ndelaski/Advanced-projects)
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ndelaski&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndelaski&layout=compact&theme=default&hide_border=true" />
+</p>
+
+---
+
+## Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/andrew-khaleski-opata-a932b2183/">
+    <img src="https://img.shields.io/badge/LinkedIn-Andrew%20Khaleski%20Opata-0077B5?style=flat-square&logo=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Ndelaski">
+    <img src="https://img.shields.io/badge/GitHub-Ndelaski-181717?style=flat-square&logo=github" />
+  </a>
+  &nbsp;
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-your.email%40gmail.com-D14836?style=flat-square&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Open to data scientist, business analyst, and ML engineer roles in Sydney and remotely.</sub>
+</p>
