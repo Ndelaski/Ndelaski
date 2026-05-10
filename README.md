@@ -73,11 +73,7 @@ I'm a data scientist and business analyst with a postgraduate background in data
 | 10 | [powerbi-hr-analytics] | HR attrition dashboard — same dataset as the ML churn project, showing the same problem from both a BI and predictive modelling angle | Power BI · DAX · IBM HR dataset | 🔨 Building |
 | 11 | [business-analysis-case-studies] | BA deliverables: business requirements documents, user stories, process maps, and stakeholder analyses | BPMN · Markdown · draw.io | 📋 Planned |
 
-###  Exploratory & learning
 
-| # | Project | Description | Stack |
-|---|---------|-------------|-------|
-| 12 | [khal-playtime] | Sandbox for experiments, dataset explorations, and learning new techniques before they become full projects | Python · Jupyter |
 
 ---
 
