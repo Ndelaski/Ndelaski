@@ -54,30 +54,30 @@ I'm a data scientist and business analyst with a postgraduate background in data
 | 1 | [covid-bayesian-prediction](https://github.com/Ndelaski/Advanced-projects) | Predicting COVID-19 and Long COVID risk using Bayesian networks, SVM, neural networks, and decision trees on clinical symptom data. Postgraduate capstone. | pgmpy · sklearn · pandas | ✅ Complete |
 | 2 | [sensor-drift-ml](https://github.com/Ndelaski/sensor-drift-ml) | VOC gas classification from a 128-feature sensor array — key finding: all models drop from 98% CV accuracy to 35–50% on test due to sensor drift, not overfitting | sklearn · XGBoost · MLP · LassoCV | ✅ Complete |
 | 3 | [robot-navigation-rl](https://github.com/Ndelaski/robot-navigation-rl) | 2D robot navigation simulation with reward-based control — architecturally structured for Q-learning and DQN extension | Pygame · Python · Kinematics | ✅ Complete |
-| 4 | [sales-forecasting](https://github.com/Ndelaski/sales-forecasting) | Time series forecasting comparing ARIMA, Prophet, and LSTM on retail sales data with seasonality decomposition | Prophet · statsmodels · PyTorch | 📋 Planned |
-| 5 | [cv-image-classifier](https://github.com/Ndelaski/cv-image-classifier) | Transfer learning image classification with EfficientNet, data augmentation, GradCAM visualisation, and ONNX export | PyTorch · torchvision · Albumentations | 📋 Planned |
+| 4 | [sales-forecasting] | Time series forecasting comparing ARIMA, Prophet, and LSTM on retail sales data with seasonality decomposition | Prophet · statsmodels · PyTorch | 📋 Planned |
+| 5 | [cv-image-classifier] | Transfer learning image classification with EfficientNet, data augmentation, GradCAM visualisation, and ONNX export | PyTorch · torchvision · Albumentations | 📋 Planned |
 
 ###  ML engineering & deployment
 
 | # | Project | Description | Stack | Status |
 |---|---------|-------------|-------|--------|
-| 6 | [ml-api-fastapi](https://github.com/Ndelaski/ml-api-fastapi) | Production REST API serving ML model predictions — Pydantic validation, Swagger docs, Dockerised deployment | FastAPI · Docker · Pydantic | 🔨 Building |
-| 7 | [ml-cicd-pipeline](https://github.com/Ndelaski/ml-cicd-pipeline) | Full CI/CD pipeline: lint → test → train → evaluate → deploy gate. Automated on every push via GitHub Actions | GitHub Actions · pytest · DVC · pre-commit | 📋 Planned |
-| 8 | [cloud-ml-deploy](https://github.com/Ndelaski/cloud-ml-deploy) | Infrastructure-as-code deployment of ML API to AWS ECS Fargate with auto-scaling and HTTPS | Terraform · AWS ECS · Docker | 📋 Planned |
+| 6 | [ml-api-fastapi] | Production REST API serving ML model predictions — Pydantic validation, Swagger docs, Dockerised deployment | FastAPI · Docker · Pydantic | 🔨 Building |
+| 7 | [ml-cicd-pipeline] | Full CI/CD pipeline: lint → test → train → evaluate → deploy gate. Automated on every push via GitHub Actions | GitHub Actions · pytest · DVC · pre-commit | 📋 Planned |
+| 8 | [cloud-ml-deploy] | Infrastructure-as-code deployment of ML API to AWS ECS Fargate with auto-scaling and HTTPS | Terraform · AWS ECS · Docker | 📋 Planned |
 
 ###  Power BI & business analysis
 
 | # | Project | Description | Tools | Status |
 |---|---------|-------------|-------|--------|
-| 9 | [powerbi-sales-dashboard](https://github.com/Ndelaski/powerbi-sales-dashboard) | Executive sales dashboard with YTD/MoM KPIs, regional drill-through, and product performance pages | Power BI · DAX · Power Query | 🔨 Building |
-| 10 | [powerbi-hr-analytics](https://github.com/Ndelaski/powerbi-hr-analytics) | HR attrition dashboard — same dataset as the ML churn project, showing the same problem from both a BI and predictive modelling angle | Power BI · DAX · IBM HR dataset | 🔨 Building |
-| 11 | [business-analysis-case-studies](https://github.com/Ndelaski/business-analysis-case-studies) | BA deliverables: business requirements documents, user stories, process maps, and stakeholder analyses | BPMN · Markdown · draw.io | 📋 Planned |
+| 9 | [powerbi-sales-dashboard] | Executive sales dashboard with YTD/MoM KPIs, regional drill-through, and product performance pages | Power BI · DAX · Power Query | 🔨 Building |
+| 10 | [powerbi-hr-analytics] | HR attrition dashboard — same dataset as the ML churn project, showing the same problem from both a BI and predictive modelling angle | Power BI · DAX · IBM HR dataset | 🔨 Building |
+| 11 | [business-analysis-case-studies] | BA deliverables: business requirements documents, user stories, process maps, and stakeholder analyses | BPMN · Markdown · draw.io | 📋 Planned |
 
 ###  Exploratory & learning
 
 | # | Project | Description | Stack |
 |---|---------|-------------|-------|
-| 12 | [khal-playtime](https://github.com/Ndelaski/khal-playtime) | Sandbox for experiments, dataset explorations, and learning new techniques before they become full projects | Python · Jupyter |
+| 12 | [khal-playtime] | Sandbox for experiments, dataset explorations, and learning new techniques before they become full projects | Python · Jupyter |
 
 ---
 
