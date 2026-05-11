@@ -61,7 +61,7 @@ I'm a data scientist and business analyst with a postgraduate background in data
 
 | # | Project | Description | Stack | Status |
 |---|---------|-------------|-------|--------|
-| 6 | [ml-api-fastapi](https://github.com/Ndelaski/ml-api-fastapi | Production REST API serving ML model predictions — Pydantic validation, Swagger docs, Dockerised deployment | FastAPI · Docker · Pydantic | ✅ Complete |
+| 6 | [ml-api-fastapi](https://github.com/Ndelaski/ml-api-fastapi)| Production REST API serving ML model predictions — Pydantic validation, Swagger docs, Dockerised deployment | FastAPI · Docker · Pydantic | ✅ Complete |
 | 7 | [ml-cicd-pipeline] | Full CI/CD pipeline: lint → test → train → evaluate → deploy gate. Automated on every push via GitHub Actions | GitHub Actions · pytest · DVC · pre-commit | 📋 Planned |
 | 8 | [cloud-ml-deploy] | Infrastructure-as-code deployment of ML API to AWS ECS Fargate with auto-scaling and HTTPS | Terraform · AWS ECS · Docker | 📋 Planned |
 
