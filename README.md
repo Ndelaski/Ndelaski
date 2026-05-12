@@ -22,10 +22,10 @@
 
 I'm a data scientist and business analyst with a postgraduate background in data science from Western Sydney University. I work across the full data lifecycle — from stakeholder requirements and business analysis through to machine learning model development, API deployment, and CI/CD pipelines. I'm passionate about building interpretable, impactful ML systems in healthcare, business intelligence, and AI engineering.
 
-- 🔬 Currently building: end-to-end ML pipelines with MLflow + FastAPI deployment
-- 📊 Power BI dashboard portfolio covering sales, HR analytics, and KPI reporting
-- 🤖 Exploring: LLM applications and RAG systems with LangChain
-- 🎓 MSc Data Science — Western Sydney University
+-  Currently building: end-to-end ML pipelines with MLflow + FastAPI deployment
+-  Power BI dashboard portfolio covering sales, HR analytics, and KPI reporting
+- Exploring: LLM applications and RAG systems with LangChain
+-  MSc Data Science — Western Sydney University
 
 ---
 
