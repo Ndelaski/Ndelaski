@@ -70,7 +70,7 @@ I'm a data scientist and business analyst with a postgraduate background in data
 | # | Project | Description | Tools | Status |
 |---|---------|-------------|-------|--------|
 | 9 | [powerbi-sales-dashboard] | Executive sales dashboard with YTD/MoM KPIs, regional drill-through, and product performance pages | Power BI · DAX · Power Query | 🔨 Building |
-| 10 | [powerbi-hr-analytics] | HR attrition dashboard — same dataset as the ML churn project, showing the same problem from both a BI and predictive modelling angle | Power BI · DAX · IBM HR dataset | 🔨 Building |
+| 10 | [powerbi-hr-analytics](https://github.com/Ndelaski/powerbi-hr-analytics/tree/main) | HR attrition dashboard — same dataset as the ML churn project, showing the same problem from both a BI and predictive modelling angle | Power BI · DAX · IBM HR dataset | ✅ Complete |
 | 11 | [business-analysis-case-studies] | BA deliverables: business requirements documents, user stories, process maps, and stakeholder analyses | BPMN · Markdown · draw.io | 📋 Planned |
 
 
